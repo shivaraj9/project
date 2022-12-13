@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+}
+
+.active {
+    background-color: 000000;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 0.5px;
+    background-color:#04161c;
+    color: rgb(255, 255, 255);
+}
+
+.footer {
+    text-align: center;
+    margin-top: auto;
+}
